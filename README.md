@@ -9,7 +9,7 @@ zawgyi file name ကနေ unicode file name ပြောင်းလဲပေ�
 
 # please avoid
 file size ကြီးတွေကိုရှောင်ပါ အထူးသဖြင့် Videos file တွေပါ 
-  PC နေးသွားနိုင်ပါယ်
+  PC နေးသွားနိုင်ပါတယ်
 
 # Multiple File 
   File size အားလုံးပေါင်း MB 500 ထက်မပိုစေပါနဲ့
